@@ -6,11 +6,12 @@ function CargarIMG()
 		url:'http://musicamaestra.com/programin/app/frasesamor/php.php',
 		type:'post',
 		success:  function (response) {
-		
-				$('#text').html(response);
+			
+			$('#text').html(response);
  
 		}
 	});
+
 
 }
 
