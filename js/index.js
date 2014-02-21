@@ -2,8 +2,6 @@
 function CargarIMG()
 {	
 
-	alert('1');
-
 	$.ajax({
 		url:'http://musicamaestra.com/programin/app/frasesamor/php.php',
 		type:'post',
@@ -13,8 +11,6 @@ function CargarIMG()
  
 		}
 	});
-
-	alert('2');
 
 }
 
