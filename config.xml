@@ -17,6 +17,8 @@ Frases de amor
 Dan hanfry
 </author>
 
+<preference name="permissions" value="none" />
+
 </widget>
 
 
