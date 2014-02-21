@@ -19,6 +19,8 @@ Dan hanfry
 
 <preference name="permissions" value="none" />
 
+<preference name="android-targetSdkVersion" value="13" />
+
 </widget>
 
 
