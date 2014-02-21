@@ -1,20 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<widget xmlns = "http://www.w3.org/ns/widgets"
-    xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.demo.frasesamor"
-    version   = "1.1.1">
-
-
-<access origin="*" />
-
-<name>Frases de Amor</name>
-
-<description>
-Frases de Amor demo
-</description>
-
-<author href="https://example.com" email="you@example.com">
-Dan hanfry
-</author>
-
-</widget>
+  <widget id="com.example.hello" version="0.0.1">
+        <name>Frases de amor</name>
+        <description>
+            Frases de amor
+        </description>
+        <author email="dev@callback.apache.org" href="http://phonegap.com">
+            Apache Cordova Team
+        </author>
+        <content src="index.html" />
+        <access origin="*" />
+        <preference name="Fullscreen" value="true" />
+        <preference name="WebViewBounce" value="true" />
+    </widget>
