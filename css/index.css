@@ -23,6 +23,11 @@ body {
 
 	background-image: url("../images/f1.png");
 
+	transition: background 0.8s linear;
+    -moz-transition: background 0.8s linear; /* Firefox 4 */
+    -webkit-transition: background 0.8s linear; /* Safari and Chrome */
+    -o-transition: background 0.8s linear; /* Opera */
+
 }
 
 #bg {
