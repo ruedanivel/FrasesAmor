@@ -41,26 +41,24 @@ body {
 
 #nav {
 	position:absolute;
-	float: left;
-
-	top:0;
-	left: 0;
 
 	width: 100%;
-
 	text-align: center;
-
 	padding: 5px;
-	font-size: 20px;
-	color:#232323;
-	background: #dd4b39;
+	background:#A21F0F;
+
+}
+
+#nav img:active {
+
+	border-radius: 50%;
 
 }
 
 #cuerpo {
 
 	position: relative;
-	top: 70px;
+	top: 90px;
 	left: 0;
 	width: 100%;
 	text-align: center;
