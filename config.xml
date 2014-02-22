@@ -4,6 +4,7 @@
     id        = "com.primeraetapa.frasesamor"
     version   = "1.0.0">
 
+<icon src="images/icon.png" />
 
 <access origin="*" />
 
