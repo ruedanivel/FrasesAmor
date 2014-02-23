@@ -39,6 +39,7 @@ body > img {
 	bottom: 0px;
 }
 
+
 #text {
 
 	display: none;
@@ -52,10 +53,11 @@ body > img {
 
 	height: 60%;
 
-	overflow: hidden;
-
 	overflow: auto;
-	overflow-x: hidden;
-	overflow-y: hidden;
 
 }
+
+::-webkit-scrollbar {width: 0px;}
+	 
+
+/* Final ScrollBar */
