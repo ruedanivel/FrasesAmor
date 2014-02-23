@@ -38,3 +38,11 @@ body > img {
 	position: absolute;
 	bottom: 0px;
 }
+
+#text {
+	
+	background: rgba(41, 182, 22, 0.26);
+	width: 100%;
+	padding: 30px;
+
+}
