@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns = "http://www.w3.org/ns/widgets"
     xmlns:gap = "http://phonegap.com/ns/1.0"
-    id        = "com.primeraetapa.frasesamor"
-    version   = "1.0.1">
+    id        = "com.frasescelebres"
+    version   = "1.0.0">
 
-<icon src="images/icon.png" />
+<icon src="images/icon.jpg" />
+
+<name>Frases celebres</name>
+
+<description>Frases celebres</description>
+
+<author href="https://codigoseo.com" email="noe@gmail.com">
+noe
+</author>
 
 <access origin="*" />
-
-<name>Frases de amor</name>
-
-<description>Frases y palabras de amor</description>
-
-<author href="https://codigoseo.com" email="dacu19@gmail.com">
-Dan hanfry
-</author>
 
 <preference name="permissions" value="none" />
 
