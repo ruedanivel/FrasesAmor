@@ -40,9 +40,13 @@ body > img {
 }
 
 #text {
-	
+
 	background: rgba(41, 182, 22, 0.26);
-	width: 100%;
-	padding: 30px;
+	padding: 20px;
+	position: absolute;
+	top: 5%;
+	font-family: 'Averia Sans Libre', cursive;
+	font-size: 40px;
+
 
 }
