@@ -41,6 +41,8 @@ body > img {
 
 #text {
 
+	display: none;
+
 	background: rgba(41, 182, 22, 0.26);
 	padding: 20px;
 	position: absolute;
@@ -48,5 +50,12 @@ body > img {
 	font-family: 'Averia Sans Libre', cursive;
 	font-size: 40px;
 
+	height: 60%;
+
+	overflow: hidden;
+
+	overflow: auto;
+	overflow-x: hidden;
+	overflow-y: hidden;
 
 }

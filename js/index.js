@@ -18,6 +18,8 @@ function CargarIMG()
 			$('#text').html(response);
 
 			$('.nav-img').attr("src", "images/buton.svg");
+
+			$('#text').css("display","block");
  
 		}
 	});
