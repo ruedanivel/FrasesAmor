@@ -28,6 +28,8 @@ body > img {
 	left: 0;
 	z-index: -1;
 
+	font-size: 80%;
+
 }
 
 #nav img{ width: 60px; height: auto;}
@@ -49,7 +51,7 @@ body > img {
 	position: absolute;
 	top: 5%;
 	font-family: 'Averia Sans Libre', cursive;
-	font-size: 40px;
+	font-size: 2.5em;
 
 	height: 60%;
 
