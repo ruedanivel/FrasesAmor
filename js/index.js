@@ -14,7 +14,7 @@ function CargarIMG()
 		type:'post',
 		success:  function (response) {
 			
-			$('#text').html(response);
+			$('#text').html('tengo que decirte que te quiero mucho por que ya aasadawñda a ' + response);
  
 		}
 	});

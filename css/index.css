@@ -15,8 +15,8 @@ html {
 body {
 
 	font-family: 'Averia Sans Libre', cursive;
+	font-size: 20px;
 
-    font-size:15px;
     height:100%;
     width:100%;
 	position: fixed;
@@ -69,7 +69,8 @@ body {
 
 #text {
 
-	font-size: 2.5em;
+	font-size: 25px;
+
 	padding: 5px;
 
 }
